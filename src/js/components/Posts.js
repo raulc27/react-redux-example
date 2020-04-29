@@ -4,9 +4,9 @@ import {getData} from "../actions/index";
 
 
 export class Post extends Component {
-    constructor(props){
+    /*constructor(props){
         super(props);
-    }
+    }*/
 
 
     componentDidMount(){
